@@ -1,0 +1,95 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Swordswoman",
+      "author": "Malcolm Archibald",
+      "publication": 1814,
+      "edition": "Penguin"
+    },
+    {
+      "id": 2,
+      "title": "Goliath",
+      "author": "Richard Turner",
+      "publication": 1865,
+      "edition": "Penguin"
+    },
+    {
+      "id": 3,
+      "title": "Tell me WHY",
+      "author": "Sandy Wallace",
+      "publication": 1875,
+      "edition": "Penguin"
+    },
+    {
+      "id": 4,
+      "title": "Bronze Magic",
+      "author": "Jennifer Ealey",
+      "publication": 1925,
+      "edition": "Harcourt Brace"
+    },
+    {
+      "id": 5,
+      "title": "The Hours",
+      "author": "Cunnningham, Michael",
+      "publication": 1999,
+      "edition": "Harcourt Brace"
+    },
+    {
+      "id": 6,
+      "title": "Pride & Prejudice",
+      "author": "Jane Austen",
+      "publication": 1865,
+      "edition": "Penguin"
+    },
+    {
+      "id": 7,
+      "title": "Bleak House",
+      "author": "Dickens, Charles",
+      "publication": 1870,
+      "edition": "Random House"
+    },
+    {
+      "id": 8,
+      "title": "The Spanish Love Deception",
+      "author": "Elena Armas",
+      "publication": 1862,
+      "edition": "Random House"
+    },
+    {
+      "id": 9,
+      "title": "Good to Great",
+      "author": "Jim Collins",
+      "publication": 1922,
+      "edition": "Penguin"
+    },
+    {
+      "id": 10,
+      "title": "The Call of The Wild",
+      "author": "Jack London",
+      "publication": 2000,
+      "edition": "Harcourt Brace"
+    },
+    {
+      "id": 11,
+      "title": "20,000 Laegues Under the Seas",
+      "author": "Jules Verne",
+      "publication": 1967,
+      "edition": "Harper  Perennial"
+    },
+    {
+      "id": 12,
+      "title": "Displaced",
+      "author": "Stephen Drake",
+      "publication": 1603,
+      "edition": "Signet  Classics"
+    },
+    {
+      "id": 13,
+      "title": "Huckleberry Finn",
+      "author": "Mark Twain",
+      "publication": 1937,
+      "edition": "Penguin"
+    }
+  ]
+}
